@@ -15,3 +15,6 @@ npm install
 
 correr en local el proyecto
 npm run dev
+
+Libreria de Estilos
+https://tailwindcss.com/docs/installation
